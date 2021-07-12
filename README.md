@@ -3,4 +3,9 @@
 Test
 
 I am changing this
-Change -> staged Changes -> commit
+
+---
+
+import React from 'react'
+
+export default name = "Hello"
