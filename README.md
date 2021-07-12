@@ -1,15 +1,3 @@
-### This is a test project
+### Pull request
 
-Test
-
-I am changing this
-
----
-
-import React from 'react'
-
-export default name = "Hello"
-
----
-
-Https commiting is very verbose
+This is an example for pull request.
